@@ -155,5 +155,4 @@ function reverseSort() {
 // 39. That should do it. Reload the page and put the application through its paces. The sort feature should be working. 
 
 
-// NEXT: Lesson 06.06
-// Next: Lesson 06.07
+// NEXT: Lesson 06.07
